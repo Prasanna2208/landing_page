@@ -1,2 +1,2 @@
-#courshell
-post website
+# courshell
+Course website
